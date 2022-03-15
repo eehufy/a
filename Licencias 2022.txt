@@ -1,0 +1,23 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Thank you for ordering a NetSupport Maintenance contract from the NetSupport Website.
+This is a confirmation that the following Maintenance contract has been created.
+
+Product:                NetSupport School for Mac Maintenance
+Serial Number:  SFT20309
+Licensee:               DUOC
+Clients:                530
+Start Date:             2022-02-01
+End Date:               2023-01-31
+ 
+*******************
+NetSupport License Sheet for NetSupport School Key Version 14
+
+  Licensee         : DUOC
+  Serial Number    : SFT20093
+  Maximum Clients  : 10712
+  Authorisation    : 0xbc367885
+
+  Maintenance      : Yes
+  Maintenance Start: 1 February 2022
+  Maintenance End  : 31 January 2023
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
